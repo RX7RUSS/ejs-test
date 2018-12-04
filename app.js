@@ -15,4 +15,4 @@ app.get('/', function(req, res) {
 
 
 app.listen(3000);
-console.log('App being served on port 3000');
+console.log('App served on port 3000');
